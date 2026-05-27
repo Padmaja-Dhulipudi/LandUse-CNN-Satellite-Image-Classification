@@ -104,15 +104,6 @@ cd LandUse-CNN-Satellite-Image-Classification
 pip install tensorflow numpy pillow matplotlib
 ```
 
----
-
-# ▶️ Running the Project
-
-## Open in Google Colab
-
-Colab Notebook Link:
-
-https://colab.research.google.com/drive/18FsWq390xDTXfawTFrRytUYdcRnQB_zO
 
 ---
 
